@@ -6,6 +6,7 @@
     - 'git add .': Adds all files in the working tree (you can also add specific files by replacing the . with the name of the file)
     - 'git commit -m "{message}"': Commits all files that were added, use a meaningful message (i.e. "Fixing responsiveness of the home page")
     - 'git push': Pushes all committed files to github
+    - 'git pull': Pull in new code, when there have been changes
 
 ## Updates for Travis
 
