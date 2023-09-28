@@ -8,6 +8,3 @@
     - 'git push': Pushes all committed files to github
     - 'git pull': Pull in new code, when there have been changes
 
-## Updates for Travis
-
-I will leave comments trying to point you in the right direction.
